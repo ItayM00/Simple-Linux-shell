@@ -1,0 +1,4 @@
+﻿  comands.c
+C:\Users\USER\source\repos\Command_line_interface\Command_line_interface\comands.c(79,18): warning C4013: '_rmdir' undefined; assuming extern returning int
+C:\Users\USER\source\repos\Command_line_interface\Command_line_interface\comands.c(106,15): warning C4013: '_mkdir' undefined; assuming extern returning int
+  Command_line_interface.vcxproj -> C:\Users\USER\source\repos\Command_line_interface\x64\Debug\Command_line_interface.exe
