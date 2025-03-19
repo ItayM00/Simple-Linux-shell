@@ -11,24 +11,25 @@ This is a custom shell implemented in C. It provides basic command execution wit
 
 
 ## Available Commands
-- **echo [text]** - Print text to the terminal
-- **cd [dir or path]** - Change the current directory
+- **echo** - Print text to the terminal
+- **cd** - Change the current directory
 - **ipconfig** - Display network configuration
 - **pwd** - Print the current directory
-- **rmdir [dir]** - Remove a directory
-- **mkdir [dir]** - Create a new directory
-- **rm [file]** - Delete a file
-- **touch [file]** - Create a new file
+- **rmdir** - Remove a directory
+- **mkdir** - Create a new directory
+- **rm** - Delete a file
+- **touch** - Create a new file
 - **clear** - Clear the screen
 - **exit** - Exit the shell
 - **help** - Show this help message
 
 ## Usage
-Simply enter a command followed by any necessary arguments and press **Enter**. The shell will process the input and execute the corresponding action.
+Enter a command followed by any necessary arguments and press **Enter**. The shell will process the input and execute the action.
 
 ## Notes
-- This shell is a lightweight implementation and may not support all features of a standard Linux shell.
+- This shell is a simple implementation and may not support all features of a standard Linux shell.
 - Ensure you enter valid paths and filenames to prevent errors.
+- **please be carefull when you use this shell**
 
 
 ## Future Improvements
